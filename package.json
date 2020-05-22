@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-plugin-outline",
+  "version": "0.1.0",
+  "description": "A Tailwind CSS plugin to add more 'outline' utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opdavies/tailwindcss-plugin-outline.git"
+  },
+  "keywords": [
+    "tailwind",
+    "'tailwind",
+    "css'"
+  ],
+  "author": "Oliver Davies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opdavies/tailwindcss-plugin-outline/issues"
+  },
+  "homepage": "https://github.com/opdavies/tailwindcss-plugin-outline#readme"
+}
